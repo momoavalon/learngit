@@ -3,3 +3,4 @@ git is free software distributed under the GPL.
 git has a mutableindex called stage.
 git track changes.
 git add 
+creating a new branch is quick.
